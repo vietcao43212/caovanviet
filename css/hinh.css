@@ -1,0 +1,43 @@
+.ee {
+    widows: 25% ;
+    float:left ;
+} 
+
+.acc{
+    border-radius:10px;
+    box-shadow: 0 0 10px gray;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+} 
+.acc>.name{
+    font-variant: small-caps;
+    color: orange;
+}
+.acc>.image{
+    max-width:98% ;
+    height:160px;
+    margin-bottom:10px;
+}
+.acc>.price{
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    font-family: Impact;
+    font-size: 25px;
+    color: orange;
+}
+.acc>.icons{
+    position: absolute;
+    right: 30px;
+    bottom: 5px;
+    width: 7px;
+}
+.acc>.new-icon{
+   
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    float:right ;
+}
