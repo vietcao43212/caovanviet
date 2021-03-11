@@ -43,9 +43,10 @@ aside{
 }
 footer{
     clear: both;
-    height: 120px;
-    background-color: rgb(54, 143, 155);
+    height: 150px;
+    background-color:rgb(238, 141, 96);
     text-align: center;
+  
 }
 iframe[name=page]{
     width: 100%;
